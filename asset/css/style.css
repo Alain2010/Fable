@@ -1,0 +1,28 @@
+@import url('https://fonts.googleapis.com/css2?family=Croissant+One&family=Mooli&family=Open+Sans:ital,wght@1,300&display=swap');
+body{
+    width: 60em;
+    margin: 0 auto;
+    font-family: 'Croissant One', cursive;
+}
+div{
+    width: 60%;
+    
+}
+img{
+    width: 100%;
+    border-radius: 5px;
+}
+p{
+    width: 60%
+
+}
+cite{
+    font-weight: bold;
+    color: red;
+}
+h1{
+    font-size: 1.5em;
+    color: red;
+}
+
+
